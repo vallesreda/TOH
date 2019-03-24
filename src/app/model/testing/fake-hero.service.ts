@@ -1,4 +1,4 @@
-// re-export for tester convenience
+/ re-export for tester convenience
 export { Hero }        from '../hero';
 export { HeroService } from '../hero.service';
 
