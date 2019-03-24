@@ -4,6 +4,7 @@ export { HeroService } from '../hero.service';
 
 import { Hero }        from '../hero';
 import { HeroService } from '../hero.service';
+import { HEROES } from './mock-heroes';
 
 export var HEROES: Hero[] = [
   new Hero(41, 'Bob'),
